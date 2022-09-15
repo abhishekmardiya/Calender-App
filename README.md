@@ -3,7 +3,7 @@
 Clone the project
 
 ```
-git clone https://github.com/abhishekmardiya/calendar.git
+https://github.com/abhishekmardiya/Calender-App.git
 ```
 
 Install npm packages
